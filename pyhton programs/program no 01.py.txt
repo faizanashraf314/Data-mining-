@@ -1,0 +1,10 @@
+# Simple Python program
+
+# Ask for user's name
+name = input("Enter your name: ")
+
+# Ask for user's age
+age = int(input("Enter your age: "))
+
+# Print a message
+print(f"Hello, {name}! You are {age} years old.")
